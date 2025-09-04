@@ -21,6 +21,7 @@ This project is a **Weather API Wrapper Service** built as a training exercise t
 - **dotenv**: For managing environment variables.
 
 ## Project Structure
+<img width="2048" height="1059" alt="image" src="https://github.com/user-attachments/assets/5530df88-99b1-46cc-8182-fdf4d116dafb" />
 
 ```
 weather-api/
